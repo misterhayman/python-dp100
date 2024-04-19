@@ -32,7 +32,8 @@ Shout out to:
 
 - @ElluIFX's [DP100-PyQt5-GUI](https://github.com/ElluIFX/DP100-PyQt5-GUI) project as a helpful reference and source of the DLL for reverse-engineering.
 - @vinivius [DP100_PS_PC-Sofware](https://github.com/vinivius/DP100_PS_PC-Sofware) for posting firmware, software, relevant DLLs and users manual
-
+- @scottbez1 [Scott Bezek's Web controlled DP100](https://github.com/scottbez1/webdp100) if you like a web controlled device
+ 
 ## Future Plans
 
 - Make graph change color depending which parameter (V, A, W, Ohm) is selected
