@@ -40,7 +40,6 @@
       <property name="font">
        <font>
         <family>Segoe UI</family>
-        <weight>50</weight>
         <bold>false</bold>
        </font>
       </property>
@@ -54,7 +53,6 @@
       <property name="font">
        <font>
         <family>Segoe UI</family>
-        <weight>50</weight>
         <bold>false</bold>
        </font>
       </property>
@@ -104,7 +102,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>14</pointsize>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -136,7 +133,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -185,7 +181,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>14</pointsize>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -214,7 +209,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -261,7 +255,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>14</pointsize>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -290,7 +283,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -330,7 +322,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>14</pointsize>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -362,7 +353,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -406,7 +396,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>14</pointsize>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -435,7 +424,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -472,7 +460,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>14</pointsize>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -501,7 +488,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -564,7 +550,6 @@
           <property name="font">
            <font>
             <family>Segoe UI</family>
-            <weight>50</weight>
             <bold>false</bold>
            </font>
           </property>
@@ -610,7 +595,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>10</pointsize>
-                 <weight>50</weight>
                  <italic>false</italic>
                  <bold>false</bold>
                 </font>
@@ -648,7 +632,6 @@
                     <font>
                      <family>Segoe UI</family>
                      <pointsize>10</pointsize>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -668,7 +651,6 @@
                    <property name="font">
                     <font>
                      <family>Segoe UI</family>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -698,7 +680,6 @@
                     <font>
                      <family>Segoe UI</family>
                      <pointsize>10</pointsize>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -723,7 +704,6 @@
                     <font>
                      <family>Segoe UI</family>
                      <pointsize>10</pointsize>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -756,7 +736,6 @@
                     <font>
                      <family>Segoe UI</family>
                      <pointsize>10</pointsize>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -796,7 +775,6 @@
                     <font>
                      <family>Segoe UI</family>
                      <pointsize>10</pointsize>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -826,7 +804,6 @@
                     <font>
                      <family>Segoe UI</family>
                      <pointsize>10</pointsize>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -883,7 +860,6 @@
                    <property name="font">
                     <font>
                      <family>Segoe UI</family>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -946,7 +922,6 @@
                    <property name="font">
                     <font>
                      <family>Segoe UI</family>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -986,7 +961,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>10</pointsize>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -1006,7 +980,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -1056,8 +1029,8 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>214</width>
-                      <height>225</height>
+                      <width>190</width>
+                      <height>250</height>
                      </rect>
                     </property>
                     <layout class="QVBoxLayout" name="verticalLayout_17">
@@ -1346,8 +1319,8 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>214</width>
-                      <height>225</height>
+                      <width>147</width>
+                      <height>148</height>
                      </rect>
                     </property>
                     <layout class="QVBoxLayout" name="verticalLayout_15">
@@ -1593,8 +1566,8 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>214</width>
-                      <height>225</height>
+                      <width>157</width>
+                      <height>182</height>
                      </rect>
                     </property>
                     <layout class="QVBoxLayout" name="verticalLayout_16">
@@ -1856,7 +1829,6 @@
                    <property name="font">
                     <font>
                      <family>Segoe UI</family>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -1920,7 +1892,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -1952,7 +1923,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -1984,7 +1954,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -2016,7 +1985,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -2058,7 +2026,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -2090,7 +2057,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -2122,7 +2088,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -2154,7 +2119,6 @@
                      <property name="font">
                       <font>
                        <family>Segoe UI</family>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -2198,7 +2162,6 @@
                    <property name="font">
                     <font>
                      <family>Segoe UI</family>
-                     <weight>50</weight>
                      <bold>false</bold>
                     </font>
                    </property>
@@ -2234,7 +2197,6 @@
                       <font>
                        <family>Segoe UI</family>
                        <pointsize>9</pointsize>
-                       <weight>50</weight>
                        <bold>false</bold>
                       </font>
                      </property>
@@ -2324,8 +2286,8 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>201</width>
-                      <height>227</height>
+                      <width>123</width>
+                      <height>204</height>
                      </rect>
                     </property>
                     <layout class="QVBoxLayout" name="verticalLayout_20">
@@ -2648,7 +2610,6 @@
           <property name="font">
            <font>
             <family>Segoe UI</family>
-            <weight>50</weight>
             <bold>false</bold>
            </font>
           </property>
@@ -2688,7 +2649,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>10</pointsize>
-                 <weight>50</weight>
                  <italic>false</italic>
                  <bold>false</bold>
                 </font>
@@ -2723,7 +2683,6 @@
                  <property name="font">
                   <font>
                    <family>Segoe UI</family>
-                   <weight>50</weight>
                    <bold>false</bold>
                   </font>
                  </property>
@@ -2749,7 +2708,6 @@
                  <property name="font">
                   <font>
                    <family>Segoe UI</family>
-                   <weight>50</weight>
                    <bold>false</bold>
                   </font>
                  </property>
@@ -2767,7 +2725,6 @@
                  <property name="font">
                   <font>
                    <family>Segoe UI</family>
-                   <weight>50</weight>
                    <italic>false</italic>
                    <bold>false</bold>
                   </font>
@@ -2797,7 +2754,6 @@
                  <property name="font">
                   <font>
                    <family>Segoe UI</family>
-                   <weight>50</weight>
                    <bold>false</bold>
                   </font>
                  </property>
@@ -2823,7 +2779,6 @@
         <property name="font">
          <font>
           <family>Segoe UI</family>
-          <weight>50</weight>
           <bold>false</bold>
          </font>
         </property>
@@ -2881,7 +2836,6 @@
               <font>
                <family>Segoe UI</family>
                <pointsize>10</pointsize>
-               <weight>50</weight>
                <italic>false</italic>
                <bold>false</bold>
               </font>
@@ -2913,7 +2867,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -2942,7 +2895,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -2993,12 +2945,14 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
+               <property name="currentText">
+                <string>Current</string>
+               </property>
                <property name="currentIndex">
-                <number>0</number>
+                <number>1</number>
                </property>
                <item>
                 <property name="text">
@@ -3038,7 +2992,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3067,7 +3020,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3143,7 +3095,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3160,7 +3111,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3186,7 +3136,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3206,7 +3155,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3226,7 +3174,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3246,7 +3193,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3266,7 +3212,6 @@
                <property name="font">
                 <font>
                  <family>Segoe UI</family>
-                 <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
@@ -3288,7 +3233,6 @@
              <property name="font">
               <font>
                <family>Segoe UI</family>
-               <weight>50</weight>
                <bold>false</bold>
               </font>
              </property>
@@ -3299,7 +3243,6 @@
              <property name="font">
               <font>
                <family>Segoe UI</family>
-               <weight>50</weight>
                <bold>false</bold>
               </font>
              </property>
@@ -3310,7 +3253,6 @@
              <property name="font">
               <font>
                <family>Segoe UI</family>
-               <weight>50</weight>
                <bold>false</bold>
               </font>
              </property>
@@ -3351,7 +3293,6 @@
                 <font>
                  <family>Segoe UI</family>
                  <pointsize>10</pointsize>
-                 <weight>50</weight>
                  <italic>false</italic>
                  <bold>false</bold>
                 </font>

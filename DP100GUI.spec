@@ -32,6 +32,8 @@ a = Analysis(
         "IPython",
         "pygments",
         "h5py",
+        "PyQt6",
+        "PySide2",
     ],  #
     win_no_prefer_redirects=False,
     win_private_assemblies=False,
@@ -58,10 +60,10 @@ exe = EXE(
     splash,  # <-- both, splash target
     splash.binaries,  # <-- and splash binaries
     [],
-    name="DP100GUI",
+    name="Alientek DP100 Controller",
     debug=False,
     bootloader_ignore_signals=False,
-    strip=False,
+    strip=True,
     upx=False,
     upx_exclude=[],
     runtime_tmpdir=None,
