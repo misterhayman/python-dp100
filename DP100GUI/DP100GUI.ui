@@ -16,11 +16,16 @@
     <height>0</height>
    </size>
   </property>
+  <property name="font">
+   <font>
+    <family>Segoe UI</family>
+   </font>
+  </property>
   <property name="windowTitle">
    <string>Alientek DP100 Controller</string>
   </property>
   <property name="windowOpacity">
-   <double>0.950000000000000</double>
+   <double>1.000000000000000</double>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout_8" stretch="0,0,0">
@@ -34,7 +39,7 @@
       </property>
       <property name="font">
        <font>
-        <family>MS UI Gothic</family>
+        <family>Segoe UI</family>
         <weight>50</weight>
         <bold>false</bold>
        </font>
@@ -48,7 +53,7 @@
      <widget class="QFrame" name="frameLcd">
       <property name="font">
        <font>
-        <family>MS UI Gothic</family>
+        <family>Segoe UI</family>
         <weight>50</weight>
         <bold>false</bold>
        </font>
@@ -97,7 +102,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>14</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
@@ -130,10 +135,13 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: rgb(224, 224, 0);</string>
                </property>
                <property name="frameShape">
                 <enum>QFrame::Box</enum>
@@ -175,7 +183,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>14</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
@@ -205,10 +213,13 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: rgb(0, 224, 0);</string>
                </property>
                <property name="frameShape">
                 <enum>QFrame::Box</enum>
@@ -248,7 +259,7 @@
               <widget class="QLabel" name="label_3">
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>14</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
@@ -278,10 +289,13 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">color: rgb(224, 0, 224);</string>
                </property>
                <property name="frameShape">
                 <enum>QFrame::Box</enum>
@@ -314,7 +328,7 @@
               <widget class="QLabel" name="label_4">
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>14</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
@@ -347,7 +361,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -390,7 +404,7 @@
               <widget class="QLabel" name="label_5">
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>14</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
@@ -420,7 +434,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -456,14 +470,14 @@
               <widget class="QLabel" name="label_6">
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>14</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
                <property name="text">
-                <string>Load Impedance [Ω]</string>
+                <string>Impedance [Ω]</string>
                </property>
                <property name="scaledContents">
                 <bool>false</bool>
@@ -486,7 +500,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -549,7 +563,7 @@
           </property>
           <property name="font">
            <font>
-            <family>MS UI Gothic</family>
+            <family>Segoe UI</family>
             <weight>50</weight>
             <bold>false</bold>
            </font>
@@ -594,7 +608,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>10</pointsize>
                  <weight>50</weight>
                  <italic>false</italic>
@@ -632,7 +646,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <pointsize>10</pointsize>
                      <weight>50</weight>
                      <bold>false</bold>
@@ -653,7 +667,7 @@
                   <widget class="QCheckBox" name="checkBoxQuickset">
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <weight>50</weight>
                      <bold>false</bold>
                     </font>
@@ -682,7 +696,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <pointsize>10</pointsize>
                      <weight>50</weight>
                      <bold>false</bold>
@@ -707,7 +721,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <pointsize>10</pointsize>
                      <weight>50</weight>
                      <bold>false</bold>
@@ -740,7 +754,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <pointsize>10</pointsize>
                      <weight>50</weight>
                      <bold>false</bold>
@@ -780,7 +794,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <pointsize>10</pointsize>
                      <weight>50</weight>
                      <bold>false</bold>
@@ -810,7 +824,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <pointsize>10</pointsize>
                      <weight>50</weight>
                      <bold>false</bold>
@@ -868,7 +882,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <weight>50</weight>
                      <bold>false</bold>
                     </font>
@@ -931,7 +945,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <weight>50</weight>
                      <bold>false</bold>
                     </font>
@@ -970,7 +984,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>10</pointsize>
                  <weight>50</weight>
                  <bold>false</bold>
@@ -991,7 +1005,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -1003,7 +1017,7 @@
                 <enum>QTabWidget::Rounded</enum>
                </property>
                <property name="currentIndex">
-                <number>1</number>
+                <number>0</number>
                </property>
                <property name="elideMode">
                 <enum>Qt::ElideNone</enum>
@@ -1042,8 +1056,8 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>182</width>
-                      <height>229</height>
+                      <width>214</width>
+                      <height>225</height>
                      </rect>
                     </property>
                     <layout class="QVBoxLayout" name="verticalLayout_17">
@@ -1332,8 +1346,8 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>182</width>
-                      <height>229</height>
+                      <width>214</width>
+                      <height>225</height>
                      </rect>
                     </property>
                     <layout class="QVBoxLayout" name="verticalLayout_15">
@@ -1579,8 +1593,8 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>182</width>
-                      <height>229</height>
+                      <width>214</width>
+                      <height>225</height>
                      </rect>
                     </property>
                     <layout class="QVBoxLayout" name="verticalLayout_16">
@@ -1841,7 +1855,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <weight>50</weight>
                      <bold>false</bold>
                     </font>
@@ -1905,7 +1919,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -1937,7 +1951,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -1969,7 +1983,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -2001,7 +2015,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -2043,7 +2057,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -2075,7 +2089,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -2107,7 +2121,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -2139,7 +2153,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <weight>50</weight>
                        <bold>false</bold>
                       </font>
@@ -2183,7 +2197,7 @@
                    </property>
                    <property name="font">
                     <font>
-                     <family>MS UI Gothic</family>
+                     <family>Segoe UI</family>
                      <weight>50</weight>
                      <bold>false</bold>
                     </font>
@@ -2218,7 +2232,7 @@
                      </property>
                      <property name="font">
                       <font>
-                       <family>MS UI Gothic</family>
+                       <family>Segoe UI</family>
                        <pointsize>9</pointsize>
                        <weight>50</weight>
                        <bold>false</bold>
@@ -2310,7 +2324,7 @@
                      <rect>
                       <x>0</x>
                       <y>0</y>
-                      <width>169</width>
+                      <width>201</width>
                       <height>227</height>
                      </rect>
                     </property>
@@ -2633,7 +2647,7 @@
           </property>
           <property name="font">
            <font>
-            <family>MS UI Gothic</family>
+            <family>Segoe UI</family>
             <weight>50</weight>
             <bold>false</bold>
            </font>
@@ -2672,7 +2686,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>10</pointsize>
                  <weight>50</weight>
                  <italic>false</italic>
@@ -2708,7 +2722,7 @@
                  </property>
                  <property name="font">
                   <font>
-                   <family>MS UI Gothic</family>
+                   <family>Segoe UI</family>
                    <weight>50</weight>
                    <bold>false</bold>
                   </font>
@@ -2734,7 +2748,7 @@
                  </property>
                  <property name="font">
                   <font>
-                   <family>MS UI Gothic</family>
+                   <family>Segoe UI</family>
                    <weight>50</weight>
                    <bold>false</bold>
                   </font>
@@ -2752,7 +2766,7 @@
                 <widget class="QLabel" name="labelConnectState">
                  <property name="font">
                   <font>
-                   <family>MS UI Gothic</family>
+                   <family>Segoe UI</family>
                    <weight>50</weight>
                    <italic>false</italic>
                    <bold>false</bold>
@@ -2782,7 +2796,7 @@
                  </property>
                  <property name="font">
                   <font>
-                   <family>MS UI Gothic</family>
+                   <family>Segoe UI</family>
                    <weight>50</weight>
                    <bold>false</bold>
                   </font>
@@ -2808,7 +2822,7 @@
         </property>
         <property name="font">
          <font>
-          <family>MS UI Gothic</family>
+          <family>Segoe UI</family>
           <weight>50</weight>
           <bold>false</bold>
          </font>
@@ -2865,7 +2879,7 @@
              </property>
              <property name="font">
               <font>
-               <family>MS UI Gothic</family>
+               <family>Segoe UI</family>
                <pointsize>10</pointsize>
                <weight>50</weight>
                <italic>false</italic>
@@ -2898,7 +2912,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -2927,7 +2941,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -2978,7 +2992,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3023,7 +3037,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3052,13 +3066,19 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
                </property>
+               <property name="editable">
+                <bool>false</bool>
+               </property>
+               <property name="currentText">
+                <string>50Hz</string>
+               </property>
                <property name="currentIndex">
-                <number>5</number>
+                <number>4</number>
                </property>
                <item>
                 <property name="text">
@@ -3122,7 +3142,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3139,7 +3159,7 @@
               <spacer name="horizontalSpacer">
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3165,7 +3185,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3185,7 +3205,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3205,7 +3225,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3225,7 +3245,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3245,7 +3265,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <weight>50</weight>
                  <bold>false</bold>
                 </font>
@@ -3267,7 +3287,7 @@
              </property>
              <property name="font">
               <font>
-               <family>MS UI Gothic</family>
+               <family>Segoe UI</family>
                <weight>50</weight>
                <bold>false</bold>
               </font>
@@ -3278,7 +3298,7 @@
             <widget class="PlotWidget" name="widgetGraph2" native="true">
              <property name="font">
               <font>
-               <family>MS UI Gothic</family>
+               <family>Segoe UI</family>
                <weight>50</weight>
                <bold>false</bold>
               </font>
@@ -3289,7 +3309,7 @@
             <spacer name="verticalSpacer_5">
              <property name="font">
               <font>
-               <family>MS UI Gothic</family>
+               <family>Segoe UI</family>
                <weight>50</weight>
                <bold>false</bold>
               </font>
@@ -3329,7 +3349,7 @@
                </property>
                <property name="font">
                 <font>
-                 <family>MS UI Gothic</family>
+                 <family>Segoe UI</family>
                  <pointsize>10</pointsize>
                  <weight>50</weight>
                  <italic>false</italic>
