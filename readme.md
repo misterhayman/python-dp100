@@ -4,7 +4,7 @@
 ![interface](image/readme/interface.png)
 
 
-Translated to English by utilizing ChatGPT-4. There could be errors in translation resulting in nonsensical menu names (hopefully that will not be the case).
+Translated to English by utilizing ChatGPT-4 and other methods. There could be errors in translation resulting in nonsensical menu/label names (hopefully that is not the case).
 
 - Basic parameter setting, preset group management, setting modification
 - Data acquisition, plotting, analysis, and saving up to 100Hz (adjustable)
@@ -24,7 +24,7 @@ The release provides a packaged .exe file, no need to install the Python environ
 
 ## About the size of the binary file
 
-When PyInstaller packages Qt programs, it will automatically add unnecessary Qt Plugins, causing the binary file to be too large. Carefully modifying the spec file to exclude unnecessary DLLs and libraries can reduce the size to about 30MB, but I am too lazy to change it, so it stays as it is.
+When PyInstaller packages Qt programs, it will automatically add unnecessary Qt Plugins, causing the binary file to be too large. Carefully modifying the .spec file to exclude unnecessary DLLs and libraries can reduce the size. But further experimentation is needed.
 
 ## Acknowledgements
 
@@ -33,6 +33,16 @@ Shout out to:
 - @ElluIFX's [DP100-PyQt5-GUI](https://github.com/ElluIFX/DP100-PyQt5-GUI) project as a helpful reference and source of the DLL for reverse-engineering.
 - @vinivius [DP100_PS_PC-Sofware](https://github.com/vinivius/DP100_PS_PC-Sofware) for posting firmware, software, relevant DLLs and users manual
 
-# Notes
+## Future Plans
 
-At the time of writing sequence generator still doesn't work, perhaps I've broken its functionality or it didn't work before (did not check as I cant read Chinese). Definitely something I will look into.
+- Make graph change color depending which parameter (V, A, W, Ohm) is selected
+- Extend Power Hold (Constant Power) functionality with a full PID controller no just a simple PI
+  - Add starting voltage
+  - Add Kp, Ki, Kd params or Kp, Ti, Td (both or whichever makes more sense to use)
+  - Perhaps add PID auto tune
+  - Consider other controller types
+- Explore a I-V (Current-Voltage) curve tracer
+  - Sweep over voltage range and record currents
+  - Sweep over current range and record voltages
+- Port all this to Qt6
+- Far future: Add support for multiple DP100's
